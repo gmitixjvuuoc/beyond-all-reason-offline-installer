@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The Premium export T-72AV (TURMS-T) with 15 days of Premium account and 2000 Golden Eagles - for the inborn War Thunder tankmen!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 (64bit) | Catalina v.10.15 |
+| **Processor** | Min: Dual-Core 2.2 GHz / Rec: Intel Core i5 or Ryzen 5 3600 or better | Intel Core i5 (Xeon processors not supported) |
+| **Memory** | Min: 4GB (Windows Vista/7/8/10) / Rec: 16 GB RAM | 6 GB RAM |
+| **Graphics** | Min: DirectX 10.1 level video card: AMD Radeon 77XX / NVIDIA… / Rec: DirectX 11 level video card or higher and drivers: Nvid… | Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia fo… |
+| **OS *** | Windows 7 SP1/8/10 | Windows 7 SP1/8/10 |
+| **Hard Drive** | Min: 17 GB HD space / Rec: 95 GB HD space | 17 GB HD space |
+| **Other Requirements** | Broadband Internet connection | Broadband Internet connection |
 
 ---
 
